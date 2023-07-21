@@ -1,0 +1,3 @@
+Nobody - 100.0
+Somebody - 88.0
+Anybody - 63.0
